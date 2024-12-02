@@ -12,6 +12,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "glob-promise": "^6.0.7",
     "imagemin": "^9.0.0",
     "imagemin-giflossy": "^5.1.10",
     "imagemin-mozjpeg": "^10.0.0",
